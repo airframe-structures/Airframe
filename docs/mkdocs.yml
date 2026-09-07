@@ -1,7 +1,0 @@
-site_name: Airframe
-
-theme:
-  name: material
-
-nav:
-  - Home: index.md
