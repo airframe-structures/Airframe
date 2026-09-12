@@ -5,28 +5,9 @@ theme:
 
 nav:
   - Home: index.md
-
-  - Fundamentals:
-      - Overview: fundamentals/index.md
-      - Mechanics of Materials: fundamentals/mechanics.md
-      - Loads: fundamentals/loads.md
-
-  - Static Analysis:
-      - Overview: static-analysis/index.md
-      - Stress Analysis: static-analysis/stress.md
-      - Shear Flow: static-analysis/shear-flow.md
-      - Buckling: static-analysis/buckling.md
-
-  - Fatigue:
-      - Overview: fatigue/index.md
-
-  - Damage Tolerance:
-      - Overview: damage-tolerance/index.md
-
-  - Tools:
-      - Overview: tools/index.md
-      - FEA: tools/fea.md
-      - Calculators: tools/calculators.md
-
-  - Certification:
-      - Overview: certification/index.md
+  - Fundamentals: index.md
+  - Static Analysis: index.md
+  - Fatigue: index.md
+  - Damage Tolerance: index.md
+  - Tools: index.md
+  - Certification: index.md
