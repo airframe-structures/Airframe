@@ -6,7 +6,7 @@ theme:
     - navigation.tabs
 
 nav:
-  - Home: index.md
+  - Homu: index.md
   - Fundamentals: index.md
   - Static Analysis: index.md
   - Fatigue: index.md
