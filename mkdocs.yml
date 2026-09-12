@@ -2,6 +2,8 @@ site_name: Airframe
 
 theme:
   name: material
+  features:
+    - navigation.tabs
 
 nav:
   - Home: index.md
