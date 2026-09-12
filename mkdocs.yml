@@ -4,12 +4,35 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.sections
 
 nav:
   - Home: index.md
-  - Fundamentals: index.md
-  - Static Analysis: index.md
-  - Fatigue: index.md
-  - Damage Tolerance: index.md
-  - Tools: index.md
-  - Certification: index.md
+
+  - Fundamentals:
+      - Overview: fundamentals/index.md
+
+  - Static Analysis:
+      - Overview: static-analysis/index.md
+      - Classical Methods: static-analysis/classical-methods.md
+      - Beams: static-analysis/beams.md
+      - Plates & Shells: static-analysis/plates-shells.md
+      - Joints: static-analysis/joints.md
+
+  - Fatigue:
+      - Overview: fatigue/index.md
+
+  - Damage Tolerance:
+      - Overview: damage-tolerance/index.md
+
+  - Materials:
+      - Overview: materials/index.md
+
+  - Aircraft Structures:
+      - Overview: aircraft-structures/index.md
+
+  - Certification:
+      - Overview: certification/index.md
+
+  - Tools:
+      - Overview: tools/index.md
