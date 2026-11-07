@@ -11,6 +11,7 @@ nav:
 
   - Fundamentals:
       - Overview: fundamentals/index.md
+      - Equilibrium of Force Systems: fundamentals/equilibrium-of-force-systems.md
 
   - Static Analysis:
       - Overview: static-analysis/index.md
